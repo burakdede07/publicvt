@@ -1,5 +1,0 @@
-{
-  "type": "esp32-fota-http",
-  "version": 2,
-  "bin": "https://github.com/burakdede07/deneme/blob/main/adafruitio_26_led_btn.ino.esp32.bin"
-}
